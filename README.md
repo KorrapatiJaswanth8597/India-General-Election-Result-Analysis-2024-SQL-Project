@@ -45,6 +45,7 @@ It covers seat distribution, party alliances (NDA, I.N.D.I.A, OTHER), vote analy
   - constituency_wise_results
 
 𝐖𝐡𝐚𝐭 𝐈'𝐯𝐞 𝐥𝐞𝐚𝐫𝐧𝐞𝐝
+
 I acquired proficiency in SQL for data analysis projects, mastering the skill of transforming raw data into actionable insights.
 
 
