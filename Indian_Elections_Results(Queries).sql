@@ -2,7 +2,7 @@
 USE Indian_Elections_Results;
 
 
---1) Find the total number of seats across India.
+-- Find the total number of seats across India.
 
 SELECT * FROM constituency_wise_results;
 
@@ -12,7 +12,7 @@ FROM constituency_wise_results;
 
 ----------------------------------------------------------------------
 
---2) What is the total number of seats available for elections in each state
+-- What is the total number of seats available for elections in each state
 
 SELECT * FROM statewise_results;
 SELECT * FROM constituency_wise_results;
@@ -27,7 +27,7 @@ ON sr.State_ID = s.State_ID
 GROUP BY s.state;
 
 -------------------------------------------------------------------
---3) Total Seats Won by NDA Allianz
+-- Total Seats Won by NDA Allianz
 
 SELECT * FROM partywise_results;
 
@@ -51,7 +51,7 @@ FROM partywise_results;
 
 ---------------------------------------------------
 
---4) Seats Won by NDA Allianz Parties
+-- Seats Won by NDA Allianz Parties
 
 SELECT * FROM partywise_results;
 
@@ -76,7 +76,7 @@ ORDER BY seats_won DESC;
 
 -----------------------------------------------------------------
 
---5) Total Seats Won by I.N.D.I.A. Allianz
+--Total Seats Won by I.N.D.I.A. Allianz
 
 SELECT * FROM partywise_results;
 
@@ -109,7 +109,7 @@ FROM partywise_results;
 
 -----------------------------------------------------------------
 
---6) Seats Won by I.N.D.I.A. Allianz Parties
+-- Seats Won by I.N.D.I.A. Allianz Parties
 
 SELECT * FROM partywise_results;
 
@@ -169,6 +169,7 @@ WHERE party IN ('Bharatiya Janata Party - BJP',
                 'Rashtriya Lok Dal - RLD', 
                 'Sikkim Krantikari Morcha - SKM');
 
+-----------------------------------------------------------------------
 
 -- I.N.D.I.A Allianz
 UPDATE partywise_results 
