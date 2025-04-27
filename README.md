@@ -12,7 +12,6 @@ It covers seat distribution, party alliances (NDA, I.N.D.I.A, OTHER), vote analy
 🔹Calculate 𝐬𝐭𝐚𝐭𝐞-𝐰𝐢𝐬𝐞 𝐬𝐞𝐚𝐭 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐢𝐥𝐢𝐭𝐲 for elections.
 
 🔹Determine 𝐭𝐨𝐭𝐚𝐥 𝐬𝐞𝐚𝐭𝐬 𝐰𝐨𝐧 by;-
-
        🔹𝐍𝐃𝐀 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞
        🔹𝐈.𝐍.𝐃.𝐈.𝐀 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞
        
